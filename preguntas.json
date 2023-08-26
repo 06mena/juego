@@ -1,0 +1,28 @@
+[
+    {
+      "pregunta": "¿Cuál es la capital de Francia?",
+      "opciones": ["Londres", "París", "Berlín", "Roma"],
+      "respuesta_correcta": "París"
+    },
+    {
+      "pregunta": "¿Cuántos planetas hay en nuestro sistema solar?",
+      "opciones": ["7", "9", "8", "10"],
+      "respuesta_correcta": "8"
+    },
+    {
+      "pregunta": "¿Cuál es el río más largo del mundo?",
+      "opciones": ["Nilo", "Amazonas", "Yangtsé", "Misisipi"],
+      "respuesta_correcta": "Amazonas"
+    },
+    {
+      "pregunta": "¿En qué año tuvo lugar la Revolución Francesa?",
+      "opciones": ["1776", "1789", "1812", "1830"],
+      "respuesta_correcta": "1789"
+    },
+    {
+      "pregunta": "¿Cuál es la capital de Japón?",
+      "opciones": ["Pekín", "Seúl", "Tokio", "Bangkok"],
+      "respuesta_correcta": "Tokio"
+    }
+  ]
+  
